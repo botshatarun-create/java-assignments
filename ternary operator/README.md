@@ -25,7 +25,17 @@ x++ → returns 5, then x becomes 6,
 So y = 5 + 7 = 1,
 Final x = 7.
 # output of 8t.
-Sum of first 20 natural numbers = 210.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
 # output of 9t.
 Final value of num = 1.
 
