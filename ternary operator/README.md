@@ -26,5 +26,6 @@ So y = 5 + 7 = 1,
 Final x = 7.
 # output of 8t.
 Sum of first 20 natural numbers = 210.
-
+# output of 9t.
+Final value of num = 1.
 
