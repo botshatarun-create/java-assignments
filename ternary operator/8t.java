@@ -1,11 +1,9 @@
- class SumFirst20 {
+ class Countdown {
     public static void main(String[] args) {
-        int sum = 0;
-
-        for (int i = 1; i <= 20; i++) {
-            sum += i;   // using only += operator
+        int i = 10;
+        while (i >= 1) {
+            System.out.println(i);
+            i--;   // decrement operator
         }
-
-        System.out.println("Sum of first 20 natural numbers = " + sum);
     }
 }
