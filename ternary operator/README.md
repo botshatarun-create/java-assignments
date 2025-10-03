@@ -12,3 +12,5 @@ c/d  is greater than a/b.
 # output of 5t.
 pass,
 avg=61.0
+# output of 6t.
+Free Delivery
