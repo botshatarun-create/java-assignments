@@ -15,5 +15,5 @@ avg=61.0
 # output of 6t.
 Free Delivery
 # output of 7t.
-Final value of x = 7
+Final value of x = 7,
 Final value of y = 12
