@@ -52,4 +52,7 @@ Grade: B.
 # output of 13t.
 Maximum = 42.
 
+# output of 14t .
+Number: -5,
+It is Negative
 
