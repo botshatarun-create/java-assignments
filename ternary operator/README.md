@@ -39,3 +39,6 @@ Final x = 7.
 # output of 9t.
 Final value of num = 1.
 
+# output of 10t.
+Sum of first 20 natural numbers = 210
+
