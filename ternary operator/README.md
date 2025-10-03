@@ -54,5 +54,9 @@ Maximum = 42.
 
 # output of 14t .
 Number: -5,
-It is Negative
+It is Negative.
+
+# output of 15t.
+Age: 20, Weight: 55,
+Eligible to donate blood
 
