@@ -47,6 +47,9 @@ Divisible by both 3 and 5.
 
 # output of 12t.
 Marks: 82,
-Grade: B
+Grade: B.
+
+# output of 13t.
+Maximum = 42.
 
 
