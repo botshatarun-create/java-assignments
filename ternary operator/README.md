@@ -40,5 +40,8 @@ Final x = 7.
 Final value of num = 1.
 
 # output of 10t.
-Sum of first 20 natural numbers = 210
+Sum of first 20 natural numbers = 210.
+
+# output of 11t.
+Divisible by both 3 and 5.
 
