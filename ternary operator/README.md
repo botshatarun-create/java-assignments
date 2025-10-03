@@ -45,3 +45,8 @@ Sum of first 20 natural numbers = 210.
 # output of 11t.
 Divisible by both 3 and 5.
 
+# output of 12t.
+Marks: 82,
+Grade: B
+
+
