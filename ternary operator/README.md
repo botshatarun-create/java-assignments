@@ -9,3 +9,6 @@ Remainder = 2
 second largest=20.
 # output of 4t.
 c/d  is greater than a/b.
+# output of 5t.
+pass,
+avg=61.0
