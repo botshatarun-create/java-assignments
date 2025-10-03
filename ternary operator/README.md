@@ -16,4 +16,15 @@ avg=61.0
 Free Delivery
 # output of 7t.
 Final value of x = 7,
-Final value of y = 12
+Final value of y = 12,
+
+#explanation:.
+
+x++ → returns 5, then x becomes 6,
+++x → increments to 7, then returns 7,
+So y = 5 + 7 = 1,
+Final x = 7.
+# output of 8t.
+Sum of first 20 natural numbers = 210.
+
+
